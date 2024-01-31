@@ -1,2 +1,2 @@
-# Iniciando os estudos
- Primeiro repositório versionado
+# Olá mundo
+ Repositório criado durante aula ao vivo
